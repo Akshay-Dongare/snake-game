@@ -1,7 +1,7 @@
 # snake-game
 
 # Setup
-* Run
+* Run game
 ```
 python "./code/main.py"
 ```
